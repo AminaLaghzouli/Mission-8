@@ -1,3 +1,3 @@
-#  Analysez l’évolution des prix de l’immobilier avec Python.
-Dans ce projet,je vous présente les analyses des évolutions des prix de l'immobilier parisien pour prédire les valorisations d'actifs de l'entreprise "Les Plus Beaux Logis de Paris".
-C'est une société de gestion immobilière passant par une situation de crise à cause des raisons financières ,et à cause de ça il doit vendre des actifs pour se garntir un niveau suffisant de trésorie.
+# Analyze the evolution of real estate prices with Python.
+In this project, I present analyses of the developments in Parisian real estate prices to predict the asset valuations of the company 'Les Plus Beaux Logis de Paris.'
+It is a real estate management company facing a crisis due to financial reasons, and as a result, it needs to sell assets to ensure a sufficient level of liquidity.
